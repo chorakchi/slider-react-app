@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1603061144648" clover="3.2.0">
+  <project timestamp="1603061144648" name="All files">
+    <metrics statements="28" coveredstatements="28" conditionals="4" coveredconditionals="4" methods="10" coveredmethods="10" elements="42" coveredelements="42" complexity="0" loc="28" ncloc="28" packages="6" files="6" classes="6"/>
+    <package name="src">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="App.tsx" path="/Users/mochorak/Documents/temp/temp.nosync/repos/my repos/github/temo/slider-react-app/src/App.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.modules.Slider">
+      <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <file name="Slider.tsx" path="/Users/mochorak/Documents/temp/temp.nosync/repos/my repos/github/temo/slider-react-app/src/modules/Slider/Slider.tsx">
+        <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="9" type="stmt"/>
+        <line num="11" count="9" type="stmt"/>
+        <line num="12" count="9" type="stmt"/>
+        <line num="14" count="9" type="stmt"/>
+        <line num="15" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="22" count="9" type="stmt"/>
+        <line num="23" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="30" count="9" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.shared">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="StyleConstants.tsx" path="/Users/mochorak/Documents/temp/temp.nosync/repos/my repos/github/temo/slider-react-app/src/shared/StyleConstants.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.shared.IconButton">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="IconButton.tsx" path="/Users/mochorak/Documents/temp/temp.nosync/repos/my repos/github/temo/slider-react-app/src/shared/IconButton/IconButton.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="18" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.shared.Indicator">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="Indicator.tsx" path="/Users/mochorak/Documents/temp/temp.nosync/repos/my repos/github/temo/slider-react-app/src/shared/Indicator/Indicator.tsx">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="10" type="stmt"/>
+        <line num="13" count="10" type="stmt"/>
+        <line num="14" count="24" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="23" count="10" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.shared.Slides">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="Slides.tsx" path="/Users/mochorak/Documents/temp/temp.nosync/repos/my repos/github/temo/slider-react-app/src/shared/Slides/Slides.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="10" type="stmt"/>
+        <line num="13" count="22" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
