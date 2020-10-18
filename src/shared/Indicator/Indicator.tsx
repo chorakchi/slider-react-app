@@ -14,6 +14,7 @@ export const Indicator = (props: porpsType) => {
     elements.push(
       <IndicatorStyled
         key={"Indicator-" + i}
+        id={"Indicator-" + i}
         selected={i === props.selected}
         onClick={() => props.onSelect(i)}
       />

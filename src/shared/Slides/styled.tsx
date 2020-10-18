@@ -4,6 +4,7 @@ export const ContainerStyled = styled.div`
   width: 800px;
   height: 500px;
   box-shadow: 0 0 50px 0 rgba(161, 161, 161, 0.4);
+  border-radius: 20px;
   overflow: hidden;
   position: relative;
 `;

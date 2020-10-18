@@ -6,16 +6,19 @@ exports[`Indicator should render correctly and match to the Snapshot 1`] = `
 >
   <div
     className="sc-gtssRu iWqAEG"
+    id="Indicator-0"
     onClick={[Function]}
     selected={true}
   />
   <div
     className="sc-gtssRu gomvNq"
+    id="Indicator-1"
     onClick={[Function]}
     selected={false}
   />
   <div
     className="sc-gtssRu gomvNq"
+    id="Indicator-2"
     onClick={[Function]}
     selected={false}
   />

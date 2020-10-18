@@ -7,6 +7,7 @@ exports[`App should render correctly and match to the Snapshot 1`] = `
   >
     <div
       className="sc-bdnylx bMWfWs"
+      id="btn-back"
       onClick={[Function]}
     >
       <svg
@@ -26,7 +27,7 @@ exports[`App should render correctly and match to the Snapshot 1`] = `
     </div>
     <div>
       <div
-        className="sc-hKFyIo JFTHl"
+        className="sc-hKFyIo kIFwax"
       >
         <img
           className="sc-eCApGN bVoWZr"
@@ -50,21 +51,25 @@ exports[`App should render correctly and match to the Snapshot 1`] = `
       >
         <div
           className="sc-dlnjPT FdIJO"
+          id="Indicator-0"
           onClick={[Function]}
           selected={true}
         />
         <div
           className="sc-dlnjPT bhIUTS"
+          id="Indicator-1"
           onClick={[Function]}
           selected={false}
         />
         <div
           className="sc-dlnjPT bhIUTS"
+          id="Indicator-2"
           onClick={[Function]}
           selected={false}
         />
         <div
           className="sc-dlnjPT bhIUTS"
+          id="Indicator-3"
           onClick={[Function]}
           selected={false}
         />
@@ -72,6 +77,7 @@ exports[`App should render correctly and match to the Snapshot 1`] = `
     </div>
     <div
       className="sc-bdnylx bMWfWs"
+      id="btn-next"
       onClick={[Function]}
     >
       <svg

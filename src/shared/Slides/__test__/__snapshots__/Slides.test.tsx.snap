@@ -2,6 +2,15 @@
 
 exports[`Slides should render correctly and match to the Snapshot 1`] = `
 <div
-  className="sc-bdnylx iBZhRK"
-/>
+  className="sc-bdnylx eyzPZC"
+>
+  <img
+    className="sc-gtssRu itOySw"
+    src="image-1"
+  />
+  <img
+    className="sc-gtssRu itOySw"
+    src="image-2"
+  />
+</div>
 `;

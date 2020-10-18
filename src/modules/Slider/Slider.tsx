@@ -29,7 +29,7 @@ export const Slider = (props : propsType) => {
 
   return (
     <ContainerStyled>
-      <IconButton Icon={Icon.back} onClick={handlerBack} />
+      <IconButton id="btn-back" Icon={Icon.back} onClick={handlerBack} />
       <div>
         <Slides data={data} selected={selected} />
         <Indicator
@@ -38,7 +38,7 @@ export const Slider = (props : propsType) => {
           selected={selected}
         />
       </div>
-      <IconButton Icon={Icon.next} onClick={handlerNext} />
+      <IconButton id="btn-next" Icon={Icon.next} onClick={handlerNext} />
     </ContainerStyled>
   );
 };

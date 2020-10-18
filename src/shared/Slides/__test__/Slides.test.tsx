@@ -6,7 +6,7 @@ import {Slides} from "./../index";
 
 describe("Slides", () => {
   const defaultProps = {
-    data: [],
+    data: ['image-1','image-2'],
   };
 
   it("should render the Slides", () => {
