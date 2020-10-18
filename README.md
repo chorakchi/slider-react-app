@@ -1,8 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Slider test for LivingPackets
 
-## Available Scripts
+Deployed with Continuous delivery on: <br/>
+https://slider-react-app.netlify.app <br/>
+<br/>
 
-In the project directory, you can run:
+Test coverage and storybook  with Continuous delivery: <br/>
+https://test-coverage-slider-react-app.netlify.app <br/>
+https://storybook-slider-react-app.netlify.app
+
 
 ### `yarn start`
 
