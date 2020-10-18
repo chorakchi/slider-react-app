@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Indicator should render correctly and match to the Snapshot 1`] = `
+<div
+  className="sc-bdnylx ljOubv"
+>
+  <div
+    className="sc-gtssRu iWqAEG"
+    onClick={[Function]}
+    selected={true}
+  />
+  <div
+    className="sc-gtssRu gomvNq"
+    onClick={[Function]}
+    selected={false}
+  />
+  <div
+    className="sc-gtssRu gomvNq"
+    onClick={[Function]}
+    selected={false}
+  />
+</div>
+`;

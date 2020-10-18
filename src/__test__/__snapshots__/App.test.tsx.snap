@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render correctly and match to the Snapshot 1`] = `
+<div>
+  <div
+    className="sc-jSFkmK hGelrT"
+  >
+    <div
+      className="sc-bdnylx bMWfWs"
+      onClick={[Function]}
+    >
+      <svg
+        style={
+          Object {
+            "height": 24,
+            "width": 24,
+          }
+        }
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M15.41,16.58L10.83,12L15.41,7.41L14,6L8,12L14,18L15.41,16.58Z"
+          fill="currentColor"
+        />
+      </svg>
+    </div>
+    <div>
+      <div
+        className="sc-hKFyIo JFTHl"
+      >
+        <img
+          className="sc-eCApGN bVoWZr"
+          src="https://images.unsplash.com/photo-1449034446853-66c86144b0ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80"
+        />
+        <img
+          className="sc-eCApGN bVpKby"
+          src="https://images.unsplash.com/photo-1470341223622-1019832be824?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2288&q=80"
+        />
+        <img
+          className="sc-eCApGN bVpKby"
+          src="https://images.unsplash.com/photo-1448630360428-65456885c650?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2094&q=80"
+        />
+        <img
+          className="sc-eCApGN bVpKby"
+          src="https://images.unsplash.com/photo-1534161308652-fdfcf10f62c4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2174&q=80"
+        />
+      </div>
+      <div
+        className="sc-gtssRu dMrldS"
+      >
+        <div
+          className="sc-dlnjPT FdIJO"
+          onClick={[Function]}
+          selected={true}
+        />
+        <div
+          className="sc-dlnjPT bhIUTS"
+          onClick={[Function]}
+          selected={false}
+        />
+        <div
+          className="sc-dlnjPT bhIUTS"
+          onClick={[Function]}
+          selected={false}
+        />
+        <div
+          className="sc-dlnjPT bhIUTS"
+          onClick={[Function]}
+          selected={false}
+        />
+      </div>
+    </div>
+    <div
+      className="sc-bdnylx bMWfWs"
+      onClick={[Function]}
+    >
+      <svg
+        style={
+          Object {
+            "height": 24,
+            "width": 24,
+          }
+        }
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z"
+          fill="currentColor"
+        />
+      </svg>
+    </div>
+  </div>
+</div>
+`;
